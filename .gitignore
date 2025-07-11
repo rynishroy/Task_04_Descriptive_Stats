@@ -4,6 +4,7 @@
 /period_03_data/
 __pycache__/
 *.pyc
+Research.code-workspace
 
 # Ignore virtual environment (if used)
 venv/
