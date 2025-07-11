@@ -1,0 +1,20 @@
+# Ignore dataset files
+*.csv
+*.zip
+/period_03_data/
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (if used)
+venv/
+.env
+
+# Ignore generated plots and output
+plots/
+*.png
+*.html
+*.json
+*.log
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
